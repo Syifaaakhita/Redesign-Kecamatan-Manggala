@@ -11,3 +11,4 @@ i also put a gallery about their activities
 ![image](https://github.com/Syifaaakhita/Redesign-Kecamatan-Manggala/assets/165814721/f90babe7-151f-474f-b533-2cc883467136)
 but something went wrong with the maps, i trying my best to solve this, but it cannot, idk how to slove that probelem, it should be looks full for entire container, but idk why the maps became small like that
 ![image](https://github.com/Syifaaakhita/Redesign-Kecamatan-Manggala/assets/165814721/dcc71f8b-6ca8-4703-8a5b-90c6a40f52fb)
+
